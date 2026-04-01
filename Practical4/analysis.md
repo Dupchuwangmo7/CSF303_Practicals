@@ -1,0 +1,3 @@
+## My reflection 
+
+While implementing these algorithms in C++, I learned how different graph problems require different strategies. Floyd–Warshall is simple and useful for dense graphs but has high time complexity. Johnson’s algorithm is more efficient for sparse graphs and shows how combining Bellman-Ford and Dijkstra can handle negative weights effectively. Borůvka’s algorithm provided insight into building minimum spanning trees using a component-based approach, which can be parallelized. Overall, this assignment helped me understand when to use each algorithm based on graph size, density, and edge weights.
